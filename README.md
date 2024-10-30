@@ -5,7 +5,7 @@
 
 
 ### Connect with me:
-![image](https://github.com/user-attachments/assets/31be5dcc-4622-4751-9ce7-2be9537ecf80)
+![image]([https://github.com/user-attachments/assets/31be5dcc-4622-4751-9ce7-2be9537ecf80](https://www.linkedin.com/in/claire-bentzen))
 
 
 
