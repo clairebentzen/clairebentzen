@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi, I'm Claire!
+
+### Master's in Applied Data Science student at the University of San Diego
+
+
+
+### Connect with me:
+![image](https://github.com/user-attachments/assets/31be5dcc-4622-4751-9ce7-2be9537ecf80)
+
+
+
 
 <!--
 **clairebentzen/clairebentzen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
